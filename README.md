@@ -1,7 +1,7 @@
 ![KeystoneJS](http://keystonejs.com/images/logo.svg)
 ===================================
 
-[![Build Status](https://travis-ci.org/keystonejs/keystone.svg?branch=master)](https://travis-ci.org/keystonejs/keystone)
+[![Build Status](https://travis-ci.org/MatsuriJapon/keystone.svg)](https://travis-ci.org/MatsuriJapon/keystone)
 
  - [About Keystone](#about)
  - [Getting Started](#getting-started)
